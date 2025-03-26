@@ -189,8 +189,8 @@ If you’d like to **replicate my analysis**, follow these steps:
 ---
 
 ## 💬 Connect With Me  
-📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-📧 **Email:** your.email@example.com  
+📌 **LinkedIn:** https://www.linkedin.com/in/dhanashree-sr/ <br/>
+📧 **Portfolio:** https://dhanashreesr.vercel.app/
 
 Feel free to reach out if you have any **questions, feedback, or want to discuss SQL projects!** 😊  
 
